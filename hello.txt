@@ -1,4 +1,4 @@
 Hello Git!
 this is the 1st line
 this is from feature-1
-sarahs a whittle fatty
+sarah is a whittle fatty
